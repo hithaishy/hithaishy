@@ -11,12 +11,12 @@
                       
     i18n: company_a_desc
   date:
-    detail: --->
-            June 2017 - Present (Co-op) 
-            Syracuse, New York
+    detail: June 2017 - Present (Co-op) 
+            
     i18n: company_a_date
   job:
     detail: Frontend Developer
+    location:Syracuse, New York
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -30,9 +30,10 @@
             In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
     i18n: company_b_desc
   date:
-    detail: Jun. 2014 - Aug. 2016
+    detail: Jun. 2014 - Aug. 2016 
     i18n: company_b_date
   job:
     detail: Full Stack Developer
+    location: Bangalore, India
     i18n: company_b_job
   icon: fa-plus-square
