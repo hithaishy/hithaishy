@@ -9,7 +9,6 @@
 
 - name: K Nearest neighbour
   i18n: knn
-  gh_user: python
   url: https://hithaishy.github.io/k-nearest-neighbor-problem/
   img: /static/assets/img/landing/knn.jpg
   desc: A machine learning algorithm, with visualization. 
