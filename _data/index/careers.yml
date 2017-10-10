@@ -11,7 +11,7 @@
                       
     i18n: company_a_desc
   date:
-    detail: >
+    detail: |
             June 2017 - Present (Co-op) 
             Syracuse, New York
     i18n: company_a_date
