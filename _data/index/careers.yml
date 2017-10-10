@@ -11,7 +11,7 @@
                       
     i18n: company_a_desc
   date:
-    detail: June. 2017 - Present
+    detail: June. 2017 - Present (Co-op)
     i18n: company_a_date
   job:
     detail: Frontend Developer
@@ -25,7 +25,7 @@
     detail: I was responsible for the success, definition, quality and delivery of Dashboard and Enterprise Visualizations for SAP Cloud for Planning and SAP Lumira.
             For SAP Cloud for Analytics, I contributed in building next generation Dashboards, to pin different tiles like excel, note, charts and so on.
             Developed many data visualization charts using d3.js and highcharts. 
-            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW dataset.
+            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
     i18n: company_b_desc
   date:
     detail: Jun. 2014 - Aug. 2016
