@@ -7,12 +7,12 @@
   img: /static/assets/img/landing/c.jpg
   desc: Analytics platform built for summary generation and topic identification from product reviews
 
-- name: Python
-  i18n: cpython
+- name: K Nearest neighbour
+  i18n: knn
   gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  url: https://hithaishy.github.io/k-nearest-neighbor-problem/
+  img: /static/assets/img/landing/knn.jpg
+  desc: A machine learning algorithm, with visualization. 
 
 - name: Google
   i18n: google
