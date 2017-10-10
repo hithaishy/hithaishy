@@ -38,7 +38,7 @@
   desc_1: 
     detail: For SAP Cloud for Analytics, I contributed in building next generation Dashboards, to pin different tiles like excel, note, charts and so on.
             Developed many data visualization charts using d3.js and highcharts. 
-            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
+            In SAP Lumira, I was part of the Data Acquisition team, I developed data filters functionality which enables user to filter data from various Data source.
     i18n: company_b_desc_1    
     
   date:
