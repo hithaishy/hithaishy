@@ -13,8 +13,8 @@
   img: /static/assets/img/landing/knn.jpg
   desc: A machine learning algorithm, with visualization. 
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Web Scraping Project 
+  i18n: Web scraping
+  url: https://github.com/hithaishy/Web-Scraping-Project
+  img: /static/assets/img/landing/scraping.jpg
+  desc: Extracting Image and Description of a tumblr post using node.js and cheerio
