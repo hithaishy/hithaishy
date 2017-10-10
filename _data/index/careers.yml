@@ -10,6 +10,11 @@
              Developing and managing multiple websites of IVMF.
                       
     i18n: company_a_desc
+    desc1: 
+  detail: For SAP Cloud for Analytics, I contributed in building next generation Dashboards, to pin different tiles like excel, note, charts and so on.
+            Developed many data visualization charts using d3.js and highcharts. 
+            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
+    i18n: company_a_desc1
   date:
     detail: June 2017 - Present (Co-op) 
             
@@ -32,6 +37,11 @@
             Developed many data visualization charts using d3.js and highcharts. 
             In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
     i18n: company_b_desc
+  desc1: 
+  detail: For SAP Cloud for Analytics, I contributed in building next generation Dashboards, to pin different tiles like excel, note, charts and so on.
+            Developed many data visualization charts using d3.js and highcharts. 
+            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW Data source.
+    i18n: company_b_desc1       
   date:
     detail: Jun. 2014 - Aug. 2016 
     i18n: company_b_date
