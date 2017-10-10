@@ -16,8 +16,11 @@
     i18n: company_a_date
   job:
     detail: Frontend Developer
-    location:Syracuse, New York
     i18n: company_a_job
+    
+  location: 
+    detail: Syracuse, New York.
+    i18n: company_a_location
   icon: fa-plus-square
 
 - name:
@@ -34,6 +37,8 @@
     i18n: company_b_date
   job:
     detail: Full Stack Developer
-    location: Bangalore, India
     i18n: company_b_job
+   location: 
+    detail: Bangalore, India.
+    i18n: company_a_location
   icon: fa-plus-square
