@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: hithaishy  # Leave blank if you don't have now
   twitter_username: hithaishy92  # Leave blank if you don't have now
   email: hithaishy.jc@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com/  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -39,14 +39,14 @@ author:  # change following line to your infomation.
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+   id: UA-107909919-1
 
 ## google optimize
 go:
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
