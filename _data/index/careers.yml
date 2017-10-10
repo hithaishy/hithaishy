@@ -38,7 +38,7 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-   location: 
+  location: 
     detail: Bangalore, India.
-    i18n: company_a_location
+    i18n: company_b_location
   icon: fa-plus-square
