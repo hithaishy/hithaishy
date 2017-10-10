@@ -19,13 +19,16 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: SAP
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I was responsible for the success, definition, quality and delivery of Dashboard and Enterprise Visualizations for SAP Cloud for Planning and SAP Lumira.
+            For SAP Cloud for Analytics, I contributed in building next generation Dashboards, to pin different tiles like excel, note, charts and so on.
+            Developed many data visualization charts using d3.js and highcharts. 
+            In SAP Lumira, BW Data Acquisition I have added the filter functionality to enhance the user to filter data from large set of BW dataset.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2014 - Aug. 2016
     i18n: company_b_date
   job:
     detail: Full Stack Developer
