@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Institute for Veterans and Military Families - IVMF
+    detail: Institute for Veterans and Military Families - IVMF at Syracuse , New York
     i18n: company_a
   desc:
     detail:  Developed an API to authenticate military and military members of USA using ID.me and RESTful APIs.
@@ -11,7 +11,8 @@
                       
     i18n: company_a_desc
   date:
-    detail: June. 2017 - Present (Co-op) 
+    detail: >
+            June 2017 - Present (Co-op) 
             Syracuse, New York
     i18n: company_a_date
   job:
