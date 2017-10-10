@@ -4,11 +4,13 @@
     detail: Institute for Veterans and Military Families - IVMF
     i18n: company_a
   desc:
-    detail:  Developed an API to authenticate military and military members of USA using ID.me and RESTful APIs.\r\n
+    detail:  Developed an API to authenticate military and military members of USA using ID.me and RESTful APIs.
             
-             Integrating multiple form data into the sales force application.\r\n
+             Integrating multiple form data into the sales force application.
              
-             Developing and managing multiple websites of IVMF.
+             
+    detail : Developing and managing multiple websites of IVMF.
+                      
     i18n: company_a_desc
   date:
     detail: June. 2017 - Present
